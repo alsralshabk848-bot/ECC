@@ -9,7 +9,7 @@ gh repo clone affaan-m/ECC<p align="center">
   <a href="README.zh-CN.md">简体中文</a> |
   <a href="docs/zh-TW/README.md">繁體中文</a> |
   <a href="docs/ja-JP/README.md">日本語</a> |
-  <a href="docs/ko-KR/README.md">한국어</a> |
+  <a href="docs/ko-KR/README.md">한국어</a> |https://play.google.com/store/apps/details?id=com.whatsapp
   <a href="docs/tr/README.md">Türkçe</a> |
   <a href="docs/ru/README.md">Русский</a> |
   <a href="docs/vi-VN/README.md">Tiếng Việt</a> |
